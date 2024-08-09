@@ -20,7 +20,7 @@ This Python script allows you to fetch, store, and temporarily change the MAC ad
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mac-address-changer.git
+git clone https://github.com/hemangsharma/mac_changer.git
 cd mac-address-changer
 ```
 
